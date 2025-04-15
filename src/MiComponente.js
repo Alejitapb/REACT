@@ -8,5 +8,4 @@ function MiComponente() {
         </div>
     );
 }
-
 export default MiComponente;
